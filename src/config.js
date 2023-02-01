@@ -1,17 +1,17 @@
 module.exports = {
   siteTitle: 'Arnav Nath Misra',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Arnav is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+    'Arnav, Arnav Misra, ArnavMisra, software engineer, web developer, javascript, python, java, svvv, indore',
+  siteUrl: '',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
+  name: 'Arnav Misra',
   location: 'Indore, India',
   email: 'arnavnm@bu.edu',
-  github: 'https://github.com/yashitanamdeo',
+  github: 'https://github.com/arnavnm',
   twitterHandle: '@',
   socialMedia: [
     {
@@ -24,7 +24,7 @@ module.exports = {
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
+      url: '',
     },
     {
       name: 'Instagram',
