@@ -4,7 +4,7 @@ module.exports = {
     'Arnav is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Arnav, Arnav Misra, ArnavMisra, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: '',
+  siteUrl: 'https://yashitanamdeo.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
